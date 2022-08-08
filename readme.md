@@ -9,8 +9,8 @@
 #### 1.1.1 浅水方程
 
 $$
-\frac{\partial \bold {u}}{\partial t} + \bold u \cdot \nabla \bold u = -g \nabla h \\
-{\part h\over \part t} = -\nabla \cdot(\bold u(H+h))
+\frac{\partial \textbf {u}}{\partial t} + \textbf u \cdot \nabla \textbf u = -g \nabla h 
+{\partial h\over \partial t} = -\nabla \cdot(\textbf u(H+h))
 $$
 
 浅水方程。第一个是动量守恒方程，第二个是质量守恒方程。$\bold u$ 是2-d速度向量，$\bold g$ 是中立加速度，$h$ 是水深，$H$ 是未扰动的水深，$t$是时间。
