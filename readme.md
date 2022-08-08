@@ -9,7 +9,7 @@
 #### 1.1.1 浅水方程
 
 $$
-\frac{\partial \bold u}{\partial t} + \bold u \cdot \nabla \bold u = -g \nabla h \\
+\frac{\partial \boldmath u}{\partial t} + \bold u \cdot \nabla \bold u = -g \nabla h \\
 {\part h\over \part t} = -\nabla \cdot(\bold u(H+h))
 $$
 
