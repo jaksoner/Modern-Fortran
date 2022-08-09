@@ -643,7 +643,7 @@ end module mod_arrays
 
 结果如下：
 
-![结果](https://github.com/jaksoner/Modern-Fortran/blob/main/image-20220808195654460.png)
+![结果](https://github.com/jaksoner/Modern-Fortran/blob/main/pictures/result.png)
 
 ### 5.3 辨别出风险股
 
