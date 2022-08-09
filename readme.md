@@ -643,7 +643,7 @@ end module mod_arrays
 
 结果如下：
 
-![image-20220808195654460](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220808195654460.png)
+![image-20220808195654460]([C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220808195654460.png](https://github.com/jaksoner/Modern-Fortran/blob/main/image-20220808195654460.png))
 
 ### 5.3 辨别出风险股
 
